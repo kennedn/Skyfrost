@@ -1,0 +1,166 @@
+<!DOCTYPE Theme PUBLIC "-//VideoLAN//DTD VLC Skins V2.0//EN" "skin.dtd">
+<Theme version="2.0">
+  <ThemeInfo name="Unnamed Theme" author="Radek" email="Unknown" webpage="http://www.videolan.org/vlc/"/>
+
+  <!-- Created using the VLC Skin Editor 0.8.6.dev (http://www.videolan.org/vlc/skineditor.html)-->
+
+  <Bitmap id="images_bot_bar" file="images/bot_bar.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_bot_h" file="images/bot_h.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_bot_v" file="images/bot_v.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_roh" file="images/roh.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_slider_position_white" file="images/slider_position_white.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_handle" file="images/handle.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_prubeh_bg_video" file="images/prubeh_bg_video.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_cross_h" file="images/cross_h.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_cross_n" file="images/cross_n.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_cross_p" file="images/cross_p.png" alphacolor="#FF00FF"/>
+  <Font id="Sansation_Light_16" file="images/Sansation_Light.ttf" size="14"/>
+  <Bitmap id="images_next_n" file="images/next_n.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_play_n" file="images/play_n.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_prev_n" file="images/prev_n.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_next_h" file="images/next_h.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_next_p" file="images/next_p.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_play_h" file="images/play_h.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_play_p" file="images/play_p.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_prev_h" file="images/prev_h.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_prev_p" file="images/prev_p.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_pause_h" file="images/pause_h.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_pause_n" file="images/pause_n.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_pause_p" file="images/pause_p.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_volume_bg" file="images/volume_bg.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_slider_volume_white" file="images/slider_volume_white.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_handle_volume" file="images/handle_volume.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_no_media_bg" file="images/no_media_bg.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_no_media_bg_white" file="images/no_media_bg_white.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_cover_audio" file="images/no_media_sign.png" alphacolor="#FF00FF"/>
+  <Font id="secrcode_16" file="secrcode.ttf" size="10"/>
+  <Font id="EMLATIN6" file="EMLATIN6.ttf" size="16"/>
+  <Font id="FUTRFW" file="FUTRFW.TTF"/>
+  <Bitmap id="images_min_h" file="images/min_h.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_min_n" file="images/min_n.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_min_p" file="images/min_p.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_volume_off" file="images/volume_off.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_volume_on" file="images/volume_on.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_volume_on_c" file="images/volume_on_c.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_volume_on_h" file="images/volume_on_h.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_btn_h" file="images/playlist_btn_h.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_btn_n" file="images/playlist_btn_n.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_btn_p" file="images/playlist_btn_p.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_bg" file="images/playlist_bg.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_bg_h" file="images/playlist_bg_h.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_bg_v" file="images/playlist_bg_v.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_bg_61" file="images/playlist_bg.png" alphacolor="#FF00FF"/>
+  <Font id="Sansation_Light_34" file="Sansation_Light.ttf" size="34"/>
+  <Bitmap id="images_playlist_add_h" file="images/playlist_add_h.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_add_n" file="images/playlist_add_n.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_add_p" file="images/playlist_add_p.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_rem_h" file="images/playlist_rem_h.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_rem_n" file="images/playlist_rem_n.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_rem_p" file="images/playlist_rem_p.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_down_h" file="images/playlist_down_h.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_down_n" file="images/playlist_down_n.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_down_p" file="images/playlist_down_p.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_up_h" file="images/playlist_up_h.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_up_n" file="images/playlist_up_n.png" alphacolor="#FF00FF"/>
+  <Bitmap id="images_playlist_up_p" file="images/playlist_up_p.png" alphacolor="#FF00FF"/>
+  <Font id="Sansation_Light_20" file="Sansation_Light.ttf" size="20"/>
+
+  <Window id="Main">
+    <Layout id="MainLayout" width="600" height="493" minwidth="400" maxwidth="2000" minheight="300" maxheight="2000">
+      <Video id="Vid" width="600" height="425" rightbottom="rightbottom" visible="pl_off.isActive and vlc.hasVout"/>
+      <Video id="Vid_playlist" x="400" width="200" height="425" rightbottom="rightbottom" visible="pl_on.isActive and vlc.hasVout"/>
+      <Panel id="No_media_panel" width="600" height="425" rightbottom="rightbottom">
+        <Image id="bg_image" image="images_no_media_bg_white" resize="scale" rightbottom="rightbottom" visible="not vlc.hasVout and pl_off.isActive"/>
+        <Image id="sign_img" x="200" y="112" image="images_cover_audio" resize="scale" rightbottom="rightbottom" xkeepratio="true" ykeepratio="true" visible="not vlc.hasVout and pl_off.isActive"/>
+        <Text text="$N" font="Sansation_Light_16" alignment="center" color="#333333" id="now_playing" x="150" y="320" width="300" rightbottom="rightbottom" ykeepratio="true" visible="vlc.hasAudio and not vlc.hasVout and pl_off.isActive"/>
+      </Panel>
+      <Panel id="No_media_panel_playlist" x="400" width="500" height="425" rightbottom="rightbottom">
+        <Image id="bg_image_playlist" image="images_no_media_bg_white" resize="scale" rightbottom="rightbottom" visible="not vlc.hasVout and pl_on.isActive"/>
+        <Image id="sign_img_playlist" x="75" y="112" image="images_cover_audio" resize="scale" rightbottom="rightbottom" xkeepratio="true" ykeepratio="true" visible="not vlc.hasVout and pl_on.isActive"/>
+        <Text text="$N" font="Sansation_Light_16" color="#333333" id="now_playing_playlist" x="60" y="320" width="300" rightbottom="rightbottom" xkeepratio="true" ykeepratio="true" visible="false"/>
+      </Panel>
+      <Panel id="Bottom_panel" y="425" width="600" height="67" rightbottom="rightbottom">
+        <Image id="bot_bar_max" y="10" image="images_bot_bar" action="move" action2="vlc.fullscreen()" resize="scale" lefttop="leftbottom" rightbottom="rightbottom"/>
+        <Image id="bot_resize_e" x="597" image="images_bot_v" action="resizeE" resize="scale" lefttop="rightbottom" rightbottom="rightbottom"/>
+        <Image id="bot_resize_s" y="67" image="images_bot_h" action="resizeS" resize="scale" lefttop="leftbottom" rightbottom="rightbottom"/>
+        <Image id="bot_roh" x="588" y="56" image="images_roh" action="resizeSE" lefttop="rightbottom" rightbottom="rightbottom"/>
+        <Image id="bot_position_background" image="images_prubeh_bg_video" lefttop="leftbottom" rightbottom="rightbottom"/>
+        <Slider id="position" points="(0,5),(600,5)" value="time" tooltiptext="" up="images_handle" down="images_handle" over="images_handle" lefttop="leftbottom" rightbottom="rightbottom">
+          <SliderBackground id="position_bg" image="images_slider_position_white" nbvert="601"/>
+        </Slider>
+      </Panel>
+      <Panel id="Left_panel" y="435" width="200" height="57" lefttop="leftbottom" rightbottom="leftbottom">
+        <Checkbox state="pl_on.isActive" up1="images_playlist_btn_n" up2="images_playlist_btn_n" down1="images_playlist_btn_p" down2="images_playlist_btn_p" over1="images_playlist_btn_h" over2="images_playlist_btn_h" action1="playlist_switch.setLayout(pl_on)" action2="playlist_switch.setLayout(pl_off)" id="btn_playlist_chbx" x="200" y="16" rightbottom="leftbottom"/>
+        <Button up="images_cross_n" down="images_cross_p" over="images_cross_h" action="vlc.quit()" id="btn_close" x="17" y="16" lefttop="leftbottom" rightbottom="leftbottom"/>
+        <Button up="images_min_n" down="images_min_p" over="images_min_h" action="vlc.minimize()" id="btn_min" x="45" y="16" lefttop="leftbottom" rightbottom="leftbottom"/>
+        <Text text="$T" font="Sansation_Light_16" color="#f5f7fa" id="Time_cur" x="74" y="20" width="60" lefttop="leftbottom" rightbottom="leftbottom"/>
+        <Text text="/" font="Sansation_Light_16" color="#6f747b" id="Text_slash" x="130" y="20" width="10" lefttop="leftbottom" rightbottom="leftbottom"/>
+        <Text text="$D" font="Sansation_Light_16" color="#6f747b" id="Time_full" x="140" y="20" width="60" lefttop="leftbottom" rightbottom="leftbottom"/>
+      </Panel>
+      <Panel id="Control_panel" x="200" y="435" width="200" height="57" lefttop="leftbottom" rightbottom="rightbottom" xkeepratio="true">
+        <Checkbox state="vlc.isPlaying" up1="images_play_n" up2="images_pause_n" down1="images_play_p" down2="images_pause_p" over1="images_play_h" over2="images_pause_h" action1="vlc.play()" action2="vlc.pause()" id="Play" x="79" y="11" lefttop="leftbottom" rightbottom="leftbottom"/>
+        <Button up="images_prev_n" down="images_prev_p" over="images_prev_h" action="playlist.next()" id="btn_prev" x="45" y="14" lefttop="leftbottom" rightbottom="leftbottom"/>
+        <Button up="images_next_n" down="images_next_p" over="images_next_h" action="playlist.next()" id="btn_next" x="120" y="14" lefttop="leftbottom" rightbottom="leftbottom"/>
+      </Panel>
+      <Panel id="Volume_panel" x="430" y="450" width="160" height="30" lefttop="rightbottom" rightbottom="rightbottom">
+        <Image id="volume_background" x="45" y="10" image="images_volume_bg" lefttop="rightbottom" rightbottom="rightbottom"/>
+        <Slider id="volume_slider" x="45" y="10" points="(0,3),(100,3)" value="volume" tooltiptext="" up="images_handle_volume" down="images_handle" over="images_handle_volume" lefttop="leftbottom" rightbottom="rightbottom">
+          <SliderBackground id="volume_back" image="images_slider_volume_white" nbvert="101"/>
+        </Slider>
+        <Checkbox state="vlc.isMute" up1="images_volume_on" up2="images_volume_off" down1="images_volume_on_c" down2="images_volume_on_c" over1="images_volume_on_h" over2="images_volume_on_h" action1="vlc.mute()" action2="vlc.mute()" id="volume_mute" x="15" y="2"/>
+      </Panel>
+      <Panel id="Playlist_panel" width="400" height="425" rightbottom="leftbottom">
+        <Image id="playlist_bg" image="images_playlist_bg" rightbottom="leftbottom" visible="pl_on.isActive"/>
+        <Text text="P l a y l i s t" font="Sansation_Light_34" color="#FFFEFE" id="playlist_header" x="20" y="20" width="170" visible="pl_on.isActive"/>
+        <Button up="images_playlist_add_n" down="images_playlist_add_p" over="images_playlist_add_h" action="playlist.add();playlist_switch.setLayout(pl_off)" id="btn_pl_add" x="220" y="25" visible="pl_on.isActive"/>
+        <Button up="images_playlist_rem_n" down="images_playlist_rem_p" over="images_playlist_rem_h" action="playlist.del()" id="btn_pl_rem" x="260" y="25" visible="pl_on.isActive"/>
+        <Button up="images_playlist_up_n" down="images_playlist_up_p" over="images_playlist_up_h" action="playlist.previous()" id="btn_pl_up" x="300" y="25" visible="pl_on.isActive"/>
+        <Button up="images_playlist_down_n" down="images_playlist_down_p" over="images_playlist_down_h" action="playlist.next()" id="btn_pl_down" x="340" y="25" visible="pl_on.isActive"/>
+        <Playtree id="pl_item_list" font="Sansation_Light_20" bgcolor1="#0d0d0d" bgcolor2="#0d0d0d" fgcolor="#FFFFFF" selcolor="#de5362" playcolor="#717579" flat="true" y="80" width="400" height="300" rightbottom="leftbottom" visible="pl_on.isActive">
+          <Slider id="slide" points="(0,0)" tooltiptext="" up="images_roh"/>
+        </Playtree>
+      </Panel>
+    </Layout>
+  </Window>
+  <Window id="fullscreenController">
+    <Layout id="fs" width="600" height="68" minwidth="600" maxwidth="2000" minheight="67" maxheight="2000">
+      <Panel id="fs_Bottom_panel" width="600" height="67" rightbottom="rightbottom">
+        <Image id="fs_bot_bar_max" y="10" image="images_bot_bar" action="move" action2="Main.unmaximize()" resize="scale" lefttop="leftbottom" rightbottom="rightbottom"/>
+        <Image id="fs_bot_resize_e" x="597" image="images_bot_v" action="resizeE" resize="scale" lefttop="rightbottom" rightbottom="rightbottom"/>
+        <Image id="fs_bot_resize_s" y="67" image="images_bot_h" action="resizeS" resize="scale" lefttop="leftbottom" rightbottom="rightbottom"/>
+        <Image id="fs_bot_roh" x="588" y="56" image="images_roh" action="resizeSE" lefttop="rightbottom" rightbottom="rightbottom"/>
+        <Image id="fs_bot_position_background" image="images_prubeh_bg_video" lefttop="leftbottom" rightbottom="rightbottom"/>
+        <Slider id="fs_position" points="(0,5),(600,5)" value="time" tooltiptext="" up="images_handle" down="images_handle" over="images_handle" lefttop="leftbottom" rightbottom="rightbottom">
+          <SliderBackground id="fs_position_bg" image="images_slider_position_white" nbvert="601"/>
+        </Slider>
+      </Panel>
+      <Panel id="fs_Left_panel" y="10" width="200" height="57" lefttop="leftbottom" rightbottom="leftbottom">
+        <Button up="images_cross_n" down="images_cross_p" over="images_cross_h" action="vlc.quit()" id="fs_btn_close" x="17" y="16" lefttop="leftbottom" rightbottom="leftbottom"/>
+        <Button up="images_min_n" down="images_min_p" over="images_min_h" action="vlc.fullscreen();vlc.minimize()" id="fs_btn_min" x="45" y="16" lefttop="leftbottom" rightbottom="leftbottom"/>
+        <Checkbox state="pl_on.isActive" up1="images_playlist_btn_n" up2="images_playlist_btn_n" down1="images_playlist_btn_p" down2="images_playlist_btn_p" over1="images_playlist_btn_h" over2="images_playlist_btn_h" action1="vlc.fullscreen();playlist_switch.setLayout(pl_on)" action2="vlc.fullscreen();playlist_switch.setLayout(pl_off)" id="fs_btn_playlist_chbx" x="200" y="16" rightbottom="leftbottom"/>
+        <Text text="$T" font="Sansation_Light_16" color="#f5f7fa" id="fs_Time_cur" x="74" y="20" width="60" lefttop="leftbottom" rightbottom="leftbottom"/>
+        <Text text="/" font="Sansation_Light_16" color="#6f747b" id="fs_slash" x="130" y="20" width="10" lefttop="leftbottom" rightbottom="leftbottom"/>
+        <Text text="$D" font="Sansation_Light_16" color="#6f747b" id="fs_Time_full" x="140" y="20" width="60" lefttop="leftbottom" rightbottom="leftbottom"/>
+      </Panel>
+      <Panel id="fs_Control_panel" x="200" y="10" width="200" height="57" lefttop="leftbottom" rightbottom="rightbottom" xkeepratio="true">
+        <Checkbox state="vlc.isPlaying" up1="images_play_n" up2="images_pause_n" down1="images_play_p" down2="images_pause_p" over1="images_play_h" over2="images_pause_h" action1="vlc.play()" action2="vlc.pause()" id="fs_Play" x="79" y="11" lefttop="leftbottom" rightbottom="leftbottom"/>
+        <Button up="images_prev_n" down="images_prev_p" over="images_prev_h" action="playlist.next()" id="fs_btn_prev" x="45" y="14" lefttop="leftbottom" rightbottom="leftbottom"/>
+        <Button up="images_next_n" down="images_next_p" over="images_next_h" action="playlist.next()" id="fs_btn_next" x="120" y="14" lefttop="leftbottom" rightbottom="leftbottom"/>
+      </Panel>
+      <Panel id="fs_Volume_panel" x="430" y="24" width="160" height="30" lefttop="rightbottom" rightbottom="rightbottom">
+        <Image id="fs_volume_background" x="30" y="10" image="images_volume_bg" lefttop="rightbottom" rightbottom="rightbottom"/>
+        <Checkbox state="vlc.isMute" up1="images_volume_on" up2="images_volume_off" down1="images_volume_on_c" down2="images_volume_on_c" over1="images_volume_on_h" over2="images_volume_on_h" action1="vlc.mute()" action2="vlc.mute()" id="fs_volume_mute" y="2"/>
+        <Slider id="fs_volume_slider" x="30" y="10" points="(0,3),(100,3)" value="volume" tooltiptext="" up="images_handle_volume" down="images_handle" over="images_handle_volume" lefttop="leftbottom" rightbottom="rightbottom">
+          <SliderBackground id="fs_volume_back" image="images_slider_volume_white" nbvert="101"/>
+        </Slider>
+      </Panel>
+    </Layout>
+  </Window>
+  <Window id="playlist_switch" x="1" y="1">
+    <Layout id="pl_on" width="1" height="1">
+    </Layout>
+    <Layout id="pl_off" width="1" height="1">
+    </Layout>
+  </Window>
+
+</Theme>
